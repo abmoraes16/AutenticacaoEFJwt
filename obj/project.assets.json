@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\AutenticacaoEFJwt.csproj",
+      "projectUniqueName": "c:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\AutenticacaoEFJwt.csproj",
       "projectName": "AutenticacaoEFJwt",
-      "projectPath": "C:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\AutenticacaoEFJwt.csproj",
+      "projectPath": "c:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\AutenticacaoEFJwt.csproj",
       "packagesPath": "C:\\Users\\Dynamicca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\obj\\",
+      "outputPath": "c:\\Users\\Dynamicca\\Desktop\\AutenticacaoEFJwt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

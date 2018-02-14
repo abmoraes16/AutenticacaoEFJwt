@@ -1,0 +1,10 @@
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\bin\Debug\netcoreapp2.0\AutenticacaoEFJwt.deps.json
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\bin\Debug\netcoreapp2.0\AutenticacaoEFJwt.runtimeconfig.json
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\bin\Debug\netcoreapp2.0\AutenticacaoEFJwt.runtimeconfig.dev.json
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\bin\Debug\netcoreapp2.0\AutenticacaoEFJwt.dll
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\bin\Debug\netcoreapp2.0\AutenticacaoEFJwt.pdb
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\obj\Debug\netcoreapp2.0\AutenticacaoEFJwt.csproj.CoreCompileInputs.cache
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\obj\Debug\netcoreapp2.0\AutenticacaoEFJwt.AssemblyInfoInputs.cache
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\obj\Debug\netcoreapp2.0\AutenticacaoEFJwt.AssemblyInfo.cs
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\obj\Debug\netcoreapp2.0\AutenticacaoEFJwt.dll
+c:\Users\Dynamicca\Desktop\AutenticacaoEFJwt\obj\Debug\netcoreapp2.0\AutenticacaoEFJwt.pdb
